@@ -1,0 +1,449 @@
+Waynesburg
+Pittsburgh
+Monroeville
+Harrisburg
+Essington
+Chalfont
+Easton
+Wilkes-Barre
+Philadelphia
+South Canaan Township
+Richlandtown
+Allentown
+Liberty Township
+Reading
+Tunkhannock
+Harleysville
+TATAMY Borough
+Bath
+Kennett Township
+West Goshen Township
+Red Lion
+Saylorsburg
+North East
+North York
+Flying Hills
+Nixon
+Slippery Rock
+Polk
+O'Hara Township
+Mount Morris
+Lansdale
+Lemoyne
+Glen Mills
+York
+New Brighton
+Felton
+Erie
+Ebensburg
+Gettysburg
+Otter creek township
+Mercersburg
+Norristown
+Ford City
+Glenside
+Roulette
+Camp Hill
+Boswell
+Milesburg
+Sunbury
+Drexel Hill
+Ambridge
+Hamburg
+Washington
+Erwinna
+State College
+Assateague Island
+Castle Shannon
+Gap
+Irwin
+Carlisle
+Vandergrift
+Mifflinburg
+Pottstown
+Newtown Square
+Trevose
+Yardley
+Bellefonte
+Lewisburg
+Lock Haven
+Lancaster
+Fullerton
+Bristol
+Willow street
+coatesville
+Mount Holly springs
+Elizabethtown
+Montgomeryville
+Berwick
+DuBois
+Grantville
+chester springs
+Dresher
+Snow Shoe
+Bloomsburg
+Tower City
+Shrewsbury
+Lakeville
+Leetonia
+Lebanon
+Hazle Township
+West chester
+Mount Carmel
+Uniontown
+Altoona
+Mechanicsburg
+Morrisville
+Williamsport
+Shippensburg
+Oxford
+Hatboro
+Wrightsville
+Hermitage
+White deer township
+Youngsville
+Butler
+Munhall
+Hazleton
+Farrell
+Gouldsboro
+Dillsburg
+Bridgeville
+Blanchard
+Catasauqua
+Oil City
+Port Allegany
+Saint Marys
+tyrone
+Baden
+Lehighton
+Rohrsburg
+Shiloh
+Media
+Waynesboro
+Nazareth
+New Castle
+Chadds Ford
+Waynsboro
+Ambler
+Lewistown
+Phila
+Saegertown
+Lake Ariel
+Orefield
+Duncannon
+Neshaminy
+Conshohocken
+Mount Joy
+Downingtown
+Johnstown
+mechanicsburg
+Jermyn
+Sinking Spring
+Philadelphia pa
+Perkasie
+Lafayette
+Stroudsburg
+Lititz
+Hellam
+Valley View
+Archbald
+DOYLESTOWN
+Kittanning
+Furlong
+Wyomissing
+Tyrone
+Newville
+New Wilmington
+East stroudsburg
+Lake Lynn
+PENN township
+Warminster
+Bensalem
+HUMMELSTOWN
+Palmyra
+Palmerton
+Schuylkill Haven
+McMurray
+Stoney Fork
+Phoenixville
+Hummelstown
+Ridley Park
+Berwyn
+Chester Springs
+California
+East Stroudsburg
+Hanover
+Exeter
+Pine Grove
+Scranton
+Newtripoli
+homstead
+Doylestown
+Whitehall
+Jessup
+Tannersville
+willow Grove
+Weatherly
+BLAIRSVILLE
+Marienville
+Wexford
+Penn Run
+Barnesville
+Intercourse
+Dingmans Ferry
+philadelphia
+Upper Pottsgrove
+Levittown
+Skippack Township
+McVeytown
+Linden
+Dallas
+Jamison
+Ellwood city
+Kutztown
+Greensburg
+Great Bend
+LAKE ARIEL
+Donegal
+northampton
+MEADVILLE
+McKees Rocks
+Sellersville
+Allenwood
+Exton
+Old Forge
+Quakertown
+Shohola
+Everett
+Emmaus
+Dauphin
+Moosic
+Warren
+Steelton
+Speers
+Renton
+Unknown
+Ephrata
+Montgomery
+Loyalton
+Blairsville
+Natrona Heights
+coraopolis
+Imperial
+Bushkill
+Hellertown
+Glenmoore
+Delaware
+Bethlehem
+Mount Union
+Sharon
+Jenkintown
+Brownstown
+Berlin Township
+Punxsutawney
+Jefferson Hills
+Warrington
+Smicksburg
+Moravia
+West Chester
+Indiana
+Narberth
+Springfield
+Port Allegheny
+Evans City
+Langhorne
+Kimberton
+Columbia
+Harrisville
+Laureldale
+King of Prussia
+Myerstown
+Coatesville
+Titusville
+Lords Valley
+Willow Grove
+Upper Nation Twp
+New London Township
+Derry
+Greencastle PA
+Aldan
+Dubois
+Liberty
+Hubbard
+Broomall
+Emporium
+Southampton
+Dickson City
+Devon
+Millerton
+Creighton
+West Fallowfield
+Meadville
+Chester
+Dover
+Sterling
+Melcroft
+Kennett square
+Mohrsville
+East Petersburg
+Richboro
+Fayetteville
+Shamokin
+Delmont
+Havertown
+Luthersburgh
+Effort
+Confluence
+Port allegany
+Wellsboro
+McDonald
+New Hanover Township
+bellefonte
+Dublin
+Clarion
+Cheswick
+Dingman Township
+Crum Lynne
+Tioga
+Douglassville
+Windber
+Wayne
+Arnold
+Nottingham
+Mckees Rocks
+Lansdowne
+Folsom
+Kennett Square
+Feasterville
+Hatfield
+Pipersville
+Marcus Hook
+sellersville
+Sinking Springs
+Limerick
+Ickesburg
+Aston
+Hookstown
+Manheim
+Trexlertown
+Kintnersville
+Parkesburg
+bessemer
+McClure
+East Freedom
+Shirleysburg
+Kelly Crossroads
+Oakdale
+Lower Moreland
+folsom
+Catawissa
+Milroy
+Atglen
+Yardey
+Harlansburg
+Freedom
+Franklin
+Spring City
+Bethel Park
+Bryn Mawr
+Covington
+Abington
+Conneautville
+Aliquippa
+Wharton
+Swoyersville
+Blackwell
+Milmont Park
+Newtown
+Cochranville
+Hilltown
+Forest Hills
+York Springs
+Orrstown
+Birdsboro
+Cowansville
+Avella
+Glendon
+East Berlin
+Dalmatia
+Littlestown
+Trafford
+Centerville
+Boiling Springs
+Bangor
+Verona
+Collegeville
+Lemont Furnace
+Everret
+Paoli
+Schnecksville
+Holland
+Portage
+Upper Chichester
+Sandy Lake
+Worthville
+Thorndale
+New Kensington
+New Florence
+Mills
+West Abington Township
+Dawson
+Nockamixon township
+Coudersport
+Girardville
+Salisbury
+Stevensville
+Myrtle Beach
+Apollo
+Line Lexington
+Upper Salford
+Spring Grove
+Fredericktown
+North Wales
+plum
+Macungie
+Mars
+Conestoga
+Gulf Mills
+Elverson
+Dupont
+Mapleton
+South Williamsport
+Folcroft
+Braddock
+Selinsgrove
+Curwensville
+Muncy
+Frackville
+Clifton Heights
+Bellwood
+Wampum
+Honey Brook
+Northampton
+Snydersville
+Enola
+Davidsville
+Wyndmoor
+Mohnton
+Beaver Falls
+Latrobe
+New York City
+Moon Township
+Atlas
+Canonsburg
+McKeesport
+Masontown
+Scotrun
+Stewartstown
+Clearfield
+Girard
+Clarks Summit
+Jefferson Township
+EXPORT
+Lemasters
+Laughlintown
+Three Springs
+Akron
+Concordville
+Upper Darby
